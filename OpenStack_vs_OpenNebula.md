@@ -17,9 +17,6 @@
 - Los mecanismos de failover son algo rudimentarios, basándose en tener a un host activo todo el rato que no hace nada hasta que haya situación de fallo.
 - Compatible con EC2
 
-#Empresas
-- Dell
-- Mirantis
 
 ##OpenNebula
 

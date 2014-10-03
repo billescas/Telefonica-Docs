@@ -44,8 +44,8 @@
 
 #Bibliografía
 
-[A Comparison and Critique of Eucalyptus, OpenNebula and Nimbus](http://ccl.cse.nd.edu/research/papers/psempoli-cloudcom.pdf)
-[Cloud Computing: Theory and Practice](http://books.google.es/books?id=mpcBw1OnyIgC&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
-[OpenNebula vs. OpenStack: User Needs vs. Vendor Driven](http://opennebula.org/opennebula-vs-openstack-user-needs-vs-vendor-driven/)
-[Eucalyptus, CloudStack, OpenStack, OpenNebula: A tale of two cloud models](http://opennebula.org/eucalyptus-cloudstack-openstack-and-opennebula-a-tale-of-two-cloud-models/)
+[A Comparison and Critique of Eucalyptus, OpenNebula and Nimbus](http://ccl.cse.nd.edu/research/papers/psempoli-cloudcom.pdf).
+[Cloud Computing: Theory and Practice](http://books.google.es/books?id=mpcBw1OnyIgC&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false).
+[OpenNebula vs. OpenStack: User Needs vs. Vendor Driven](http://opennebula.org/opennebula-vs-openstack-user-needs-vs-vendor-driven/).
+[Eucalyptus, CloudStack, OpenStack, OpenNebula: A tale of two cloud models](http://opennebula.org/eucalyptus-cloudstack-openstack-and-opennebula-a-tale-of-two-cloud-models/).
 O'Reilly - OpenStack Operations Guide

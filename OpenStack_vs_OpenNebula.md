@@ -35,6 +35,7 @@
 ###Contras:
 - En comparación con el resto de plataformas, tiene una comunidad reducida.
 - Los mecanismos de *failover* o backup son solo parciales.
+<<<<<<< HEAD
 - La personalización en muchos casos conlleva a errores en la misma (SObre todo en lo referente a configuración de IPs y MACs)
 - El sistema NFS y de log in es centralizado, lo cuál puede conllevar un cuello de botella en el rendimiento. OpenNebula recomienda usar 1TB de espacio en disco por cada 64 cores de cómputo para el NFS.
 - El contexto de OpenNebula, si no se configura en profundidad, es de cara a ofrecer infraestructura a usuarios conocidos, dentro de una organización. Esto se puede deducir del hecho que para la administración de todo el cloud bajo OpenNebula se recurre a un usuario *oneadmin* y a administradores secundarios con permisos de root, o de que el sistema de red asume cosas como que la LAN es privada.
